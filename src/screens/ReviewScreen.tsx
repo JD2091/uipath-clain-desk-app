@@ -5,7 +5,7 @@ import '@uipath/ui-widgets-datatable/DataTable.css'
 // ─── ClaimDesk config — edit for your tenant ────────────────────────────────
 // UUID of the Data Fabric entity "Claims" (fields: Id, ClaimId, ClaimName,
 // ClaimAmount, ClaimStatus, ClaimSubmittedDate). Browse/edit grid.
-const CLAIM_ENTITY_ID = '0526158c-2fa5-f111-9b33-6045bda94b17'
+const CLAIM_ENTITY_ID = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'
 // ───────────────────────────────────────────────────────────────────────────
 
 export default function ReviewScreen({ sdk }: { sdk: UiPath }) {
