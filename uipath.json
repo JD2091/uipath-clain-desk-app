@@ -1,0 +1,8 @@
+{
+  "clientId": "41cb8a98-9578-47ec-b2b3-b4cb99db7624",
+  "scope": "OR.Assets OR.Buckets OR.Folders DataFabric.Schema.Read DataFabric.Data.Read DataFabric.Data.Write",
+  "orgName": "uipathlabsunifiedmix",
+  "tenantName": "Testing",
+  "baseUrl": "https://staging.api.uipath.com",
+  "redirectUri": "http://localhost:5173"
+}

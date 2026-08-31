@@ -1,0 +1,26 @@
+{
+  "name": "uipath-react-vite-hello-world",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@uipath/ui-widgets-datatable": "^1.0.1",
+    "@uipath/ui-widgets-multi-file-upload": "^1.0.0",
+    "@uipath/uipath-typescript": "^1.6.2",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@uipath/coded-apps-dev": "1.0.0-beta.1",
+    "@vitejs/plugin-react": "^6.0.4",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.0"
+  }
+}
